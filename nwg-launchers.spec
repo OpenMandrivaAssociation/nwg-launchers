@@ -9,6 +9,7 @@ Source:         https://github.com/nwg-piotr/nwg-launchers/archive/refs/tags/v%{
 BuildRequires:  cmake
 BuildRequires:  meson
 BuildRequires:  pkgconfig(gtk-layer-shell-0)
+BuildRequires:  pkgconfig(gdk-x11-3.0)
 BuildRequires:  pkgconfig(gtkmm-3.0)
 BuildRequires:  pkgconfig(librsvg-2.0)
 BuildRequires:  pkgconfig(nlohmann_json)
