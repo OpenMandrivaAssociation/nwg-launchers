@@ -30,6 +30,7 @@ GTK-based launchers: application grid, button bar, dmenu for sway and other wind
 %files
 %license LICENSE
 %doc README.md
+%doc %{_datadir}/nwg-launchers/README.md
 %{_bindir}/nwgbar
 %{_bindir}/nwgdmenu
 %{_bindir}/nwggrid
